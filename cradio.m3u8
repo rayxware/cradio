@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Eight_FM#/media/File:Eight_FM_2023.svg",8FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9b/8FM_logo.png",8FM
 #EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/988_FM#/media/File:988_Logo_-_Transparent.png",988 FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/42/988_FM_Logo.png",988 FM
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Ai_FM#/media/File:Ai_FM_logo.png",Ai FM
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fd/Ai_FM_logo.png",Ai FM
 #EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC
 #EXTINF:0 tvg-logo="https://media2.fishtank.my/stations/goxuan/updated/square_md.png",GoXuan
 #EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/Melody_(radio_station)#/media/File:Melody_(Malaysian_radio_station)_logo.png",Melody
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/MelodyRadio.png",Melody
 #EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
-#EXTINF:0 tvg-logo="https://en.wikipedia.org/wiki/My_(radio_station)#/media/File:My_(Malaysian_radio_station)_logo.png",MY
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/MY2017.png",MY
 #EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8
