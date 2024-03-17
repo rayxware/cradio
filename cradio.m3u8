@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Anak Perjanjian Syaitan 2 (2024)  MalaySub" tvg-logo="https://i.jeded.com/i/sumpahan-syaitan.154-263050.jpg" group-title="Astro First Movie",Anak Perjanjian Syaitan 2 (2024)  MalaySub
+#EXTINF:-1 tvg-id="" tvg-name="8FM" tvg-logo="https://en.wikipedia.org/wiki/Eight_FM#/media/File:Eight_FM_2023.svg"
+#EXTVLCOPT:network-caching=1000
 https://mediaprima.rastream.com/mediaprima-onefm
-#EXTINF:-1 tvg-id="" tvg-name="24.Jam.Bersama.Gaspar.2024. MalaySub" tvg-logo="https://cdn-brilio-net.akamaized.net/news/2024/03/08/277079/750xauto-reza-rahadian-perankan-karakter-unik-di-film-24-jam-bersama-gaspar-tayang-14-maret-2024-di-netflix-240308b.jpg" group-title="Astro First Movie",24.Jam.Bersama.Gaspar.2024. MalaySub
+#EXTINF:-1 tvg-id="" tvg-name="988 FM" tvg-logo="https://en.wikipedia.org/wiki/988_FM#/media/File:988_Logo_-_Transparent.png"
+#EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/988_FM.mp3
-#EXTINF:-1 tvg-id="" tvg-name="Yie Prehhh... (2024) Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BNjc5MDU4Y2UtNTkxYS00MWU3LWJjMDQtMTdmZjQxNDA2NDFhXkEyXkFqcGdeQXVyMDU2NjAwNg@@._V1_QL75_UY281_CR18,0,190,281_.jpg" group-title="Astro First Movie",Yie Prehhh... (2024) Subs Malay
+#EXTINF:-1 tvg-id="" tvg-name="Ai FM" tvg-logo="https://en.wikipedia.org/wiki/Ai_FM#/media/File:Ai_FM_logo.png"
+#EXTVLCOPT:network-caching=1000
 https://playerservices.streamtheworld.com/api/livestream-redirect/AI_FMAAC_SC
-#EXTINF:-1 tvg-id="" tvg-name="Sijjin (2023) INDONESIAN  Subs Malay" tvg-logo="https://m.media-amazon.com/images/M/MV5BYWU2YjE0ZjctNmQ1Mi00NGVjLTlkNGEtNzJiMTYxNTE2NTdhXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_FMjpg_UX1000_.jpg" group-title="Astro First Movie",Sijjin (2023) INDONESIAN  Subs Malay
+#EXTINF:-1 tvg-id="" tvg-name="GoXuan" tvg-logo="https://media2.fishtank.my/stations/goxuan/updated/square_md.png"
+#EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/xt9nhzsbv4uvv/7_1kpxic2j08fx102/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="OORU PERU BHAIRAVAKONA (2024) TELUGU Subs Malay" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/Ooru_Peru_Bhairavakona.jpg/220px-Ooru_Peru_Bhairavakona.jpg" group-title="INDIA",OORU PERU BHAIRAVAKONA (2024) TELUGU Subs Malay
+#EXTINF:-1 tvg-id="" tvg-name="Melody" tvg-logo="https://en.wikipedia.org/wiki/Melody_(radio_station)#/media/File:Melody_(Malaysian_radio_station)_logo.png"
+#EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/2u1n6dtbv4uvv/7_w0cr3cmmz25o02/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Merry Christmas (2024) HINDI  Subs Malay" tvg-logo="https://i.jeded.com/i/merry-christmas.275226.jpg" group-title="ENGLISH(Malay/Indonesian Subtitle)",Merry Christmas (2024) HINDI  Subs Malay
+#EXTINF:-1 tvg-id="" tvg-name="MY" tvg-logo="https://en.wikipedia.org/wiki/My_(radio_station)#/media/File:My_(Malaysian_radio_station)_logo.png"
+#EXTVLCOPT:network-caching=1000
 https://stream-eu-a.rcs.revma.com/hc3unrtbv4uvv/56_1t996oveblvvv02/playlist.m3u8
